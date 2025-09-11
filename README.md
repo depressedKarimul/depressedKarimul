@@ -1,5 +1,5 @@
 # 💫 Hiii 👋, I'm Karimul
-**A passionate MERN Stack Developer || RAG Model Builder ||  from Bangldesh**
+**A passionate MERN Stack Developer || RAG Model Builder ||  from Bangladesh 🇧🇩**
 
   
 ## 🌐 Socials:
